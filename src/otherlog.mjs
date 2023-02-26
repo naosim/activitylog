@@ -1,4 +1,4 @@
-import {csv2Logs} from './libs.mjs';
+import { csv2Logs } from "./libs.mjs";
 
 // その他活動記録
 const text = `
@@ -15,7 +15,7 @@ const text = `
 2023/1/15, CoderDojo溝口
 2023/2/5, CoderDojo溝口
 2023/2/19, CoderDojo溝口
-`.trim()
+`.trim();
 
 /** @type { {date: Date, title: string}[] } */
 export const otherLogs = csv2Logs(text);
