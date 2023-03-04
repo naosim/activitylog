@@ -35,4 +35,4 @@ const text = `
 `
 
 /** @type { {date: Date, title: string}[] } */
-export const blogLogs = csv2Logs(text);
+export const blogLogs = csv2Logs(text, 'blog');

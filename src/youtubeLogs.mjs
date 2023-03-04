@@ -21,4 +21,4 @@ const text = `
 `;
 
 /** @type { {date: Date, title: string}[] } */
-export const youtubeLogs = csv2Logs(text);
+export const youtubeLogs = csv2Logs(text, 'youtube');

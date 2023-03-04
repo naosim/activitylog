@@ -18,4 +18,4 @@ const text = `
 `.trim();
 
 /** @type { {date: Date, title: string}[] } */
-export const otherLogs = csv2Logs(text);
+export const otherLogs = csv2Logs(text, 'other');
