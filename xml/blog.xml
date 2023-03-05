@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:note="https://note.com" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>なおしむ</title>
+    <description>多くの人にプログラミングを楽しんでもらいたいアプリケーションエンジニア。プログラミングの楽しさを発信します。
+子育て / エンジニア / エンジニアリングマネージャー / チーム / 育成 / マネジメント / スクラム / js / Java / Scratch</description>
+    <link>https://note.com/naosim</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://note.com/naosim/rss/"/>
+    <copyright>なおしむ</copyright>
+    <webfeeds:icon>https://d2l930y2yx77uc.cloudfront.net/assets/default/default_note_logo_202212-ce4cc1bff2d42b69b27cbc2c77d857711eb8eb5f7382209022f698f9d5f969f3.png</webfeeds:icon>
+    <webfeeds:logo>https://d2l930y2yx77uc.cloudfront.net/assets/default/default_note_logo_202212-ce4cc1bff2d42b69b27cbc2c77d857711eb8eb5f7382209022f698f9d5f969f3.png</webfeeds:logo>
+    <webfeeds:accentColor>249F80</webfeeds:accentColor>
+    <webfeeds:related layout="card" target="browser"/>
+    <webfeeds:analytics id="UA-48687000-1" engine="GoogleAnalytics"/>
+    <language>ja</language>
+    <lastBuildDate>Sun, 05 Mar 2023 16:17:55 +0900</lastBuildDate>
+    <item>
+      <title>MisskeyでRSSを取得する</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/99407295/rectangle_large_type_2_b27531e797b7182d1ac84a352974513c.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="918f3b36-8bee-4a6e-b449-85a7ef45ed94" id="918f3b36-8bee-4a6e-b449-85a7ef45ed94">以前、マストドンでRSSを取得する方法を紹介しました。</p><figure name="a9c28db7-bbf5-4f9c-8e84-0b48905e79e0" id="a9c28db7-bbf5-4f9c-8e84-0b48905e79e0" data-src="https://note.com/naosim/n/n4411664901be" data-identifier="n4411664901be" embedded-service="note" embedded-content-key="emb61e035080adb"></figure><br/><a href='https://note.com/naosim/n/n393a21b53187'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Sat, 04 Mar 2023 06:30:57 +0900</pubDate>
+      <link>https://note.com/naosim/n/n393a21b53187</link>
+      <guid>https://note.com/naosim/n/n393a21b53187</guid>
+    </item>
+    <item>
+      <title>【コピペでOK】GoogleAppsScriptを使ってMisskeyに投稿する方法</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/99216039/rectangle_large_type_2_0dd787f9d07dba9c7825b1316a0f5c29.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="fb7cc3a2-b237-407c-a57c-8e86404a3536" id="fb7cc3a2-b237-407c-a57c-8e86404a3536">最近、Misskeyを使い始めました。<br>Misskeyとは、syuilo氏が開発している分散型ミニブログSNSです。<br>だいたいTwitterと同じで、思ったことをつぶやくサービスです。</p><p name="0e3cdcc9-0042-4e9f-9d38-5084eb355bd4" id="0e3cdcc9-0042-4e9f-9d38-5084eb355bd4">最近はTwitterの種々の騒動を受けて「Twitter vs Misskey」みたいな構図で語られがちですが、結局は使い分けかなと思います。<br>私は、Twitterは好きな人をフォローして楽しむもので、<br>Misskey(Mastodonも)はフォローはあまりせずにローカルタイムラインなどのコミュニティを楽しむものかなと思っています。</p><br/><a href='https://note.com/naosim/n/n434e182e351c'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Wed, 01 Mar 2023 19:15:51 +0900</pubDate>
+      <link>https://note.com/naosim/n/n434e182e351c</link>
+      <guid>https://note.com/naosim/n/n434e182e351c</guid>
+    </item>
+    <item>
+      <title>8万円のminiPCを買ってみた。ふつうに快適</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/98981993/rectangle_large_type_2_ff9ecae4233ff6cef44ed8107fa18ced.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="518f57fc-c3f2-43c1-ae0d-e995de220121" id="518f57fc-c3f2-43c1-ae0d-e995de220121">パソコン買いました。<br>次のパソコンの買い替える時は「安いPCを使い、浮いたお金で有料のWebサービスで遊ぶ」と決めていました。</p><figure name="8f235c19-d55c-43f6-a5bd-1c83ddc526b1" id="8f235c19-d55c-43f6-a5bd-1c83ddc526b1" data-src="https://note.com/naosim/n/n7c3ae224cc5f" data-identifier="n7c3ae224cc5f" embedded-service="note" embedded-content-key="emb61549833cabf"></figure><br/><a href='https://note.com/naosim/n/nab7299b3dda3'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Mon, 27 Feb 2023 22:28:44 +0900</pubDate>
+      <link>https://note.com/naosim/n/nab7299b3dda3</link>
+      <guid>https://note.com/naosim/n/nab7299b3dda3</guid>
+    </item>
+    <item>
+      <title>JavaScriptのテストをサクッと動かす「tinytest」の紹介</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/98920359/rectangle_large_type_2_0bd4b0538a4be1adcfb1b19d3dc8cc8f.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="a293232a-28cf-445a-a0f3-cceeffd29c66" id="a293232a-28cf-445a-a0f3-cceeffd29c66">今回はJavaScriptのテストを簡易的にやるライブラリを紹介します。</p><p name="0ef0e087-e5da-4afd-8fdf-32a25f2f0cee" id="0ef0e087-e5da-4afd-8fdf-32a25f2f0cee">プログラムのテストにはVitest、Jest、Mochaなどのライブラリを使いますが、ちょっと思い付きで書いた程度のプログラムでわざわざライブラリを使うのは面倒です。また実行環境もブラウザやGoogleAppsScriptなど様々ですが、ライブラリを使うにはnode.jsが必要だったりして環境構築も面倒です。<br>土日に趣味でコードを書く程度ならもっとサクッと実行したいですね。<br>そんな感じでちょうど良いライブラリを探してたら見つけました。tinytestだそうです。<br>コピペですぐ使えるサンプルモードも付けてみたので、よかったら使ってみてください。</p><br/><a href='https://note.com/naosim/n/n72c5ec13bd45'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Sun, 26 Feb 2023 08:22:38 +0900</pubDate>
+      <link>https://note.com/naosim/n/n72c5ec13bd45</link>
+      <guid>https://note.com/naosim/n/n72c5ec13bd45</guid>
+    </item>
+    <item>
+      <title>Macをやめました</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/98836585/rectangle_large_type_2_fde3e5a455223ef22d3b12a0b5dc9b38.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="ef02a908-cd75-4bad-a927-c58f870f7ec2" id="ef02a908-cd75-4bad-a927-c58f870f7ec2">こんにちは。アプリケーションエンジニアのなおしむです。<br>私が社会人になったのは2008年ですが、それ以降、パソコンはずっとMacのノートPCを使ってきました。Mac歴は15年です。<br>現在使っているMacがちょうど買い替え時期なので、いろいろ考えた結果、Macをやめることにしました。次は安いPCを使い、浮いたお金で有料のWebサービスをいろいろ試して遊ぼうと思います。</p><p name="fa1a3022-5b3d-4594-b50e-7e7687a2cbe2" id="fa1a3022-5b3d-4594-b50e-7e7687a2cbe2">今回はこの結論に至った経緯を共有します。<br>パソコンの買い替えをお考えの方がいましたら参考になればと思います。</p><br/><a href='https://note.com/naosim/n/n7c3ae224cc5f'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Sat, 25 Feb 2023 14:12:35 +0900</pubDate>
+      <link>https://note.com/naosim/n/n7c3ae224cc5f</link>
+      <guid>https://note.com/naosim/n/n7c3ae224cc5f</guid>
+    </item>
+    <item>
+      <title>マストドンでRSSを取得する</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/97967097/rectangle_large_type_2_7c7aa197eb8ecd78ef827777ca05dd5c.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="f835262b-dab6-44d3-92be-cd64003f9bbf" id="f835262b-dab6-44d3-92be-cd64003f9bbf">マストドンは標準でRSSが用意されるようです。<br>私のアカウントは<br><a href="https://social.vivaldi.net/@naosim" target="_blank" rel="nofollow noopener">https://social.vivaldi.net/@naosim</a><br>ですが、この後ろに「.rss」をつけるとRSSが取得できるようです。<a href="https://social.vivaldi.net/@naosim.rss" target="_blank" rel="nofollow noopener">https://social.vivaldi.net/@naosim.rss</a><br>サーバによっては「.atom」の場合もあるみたい。</p><h2 name="cf560745-e452-406b-89df-c436054c999e" id="cf560745-e452-406b-89df-c436054c999e">近況</h2><br/><a href='https://note.com/naosim/n/n4411664901be'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Tue, 14 Feb 2023 20:23:05 +0900</pubDate>
+      <link>https://note.com/naosim/n/n4411664901be</link>
+      <guid>https://note.com/naosim/n/n4411664901be</guid>
+    </item>
+    <item>
+      <title>GitHub Actionsでファイルを更新する</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/97964939/rectangle_large_type_2_ad884f2d491601320c34978c5e4492e5.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="51a99ffe-060f-4898-8beb-785b4d6e1601" id="51a99ffe-060f-4898-8beb-785b4d6e1601">GitHub Actionsを使ってファイルを更新する処理ができたので備忘録を残します。<br>使い道としては、ソースがプッシュされたときにソースからドキュメントを生成して保存するような時に使います。</p><h2 name="e863a366-8134-4ac6-8e69-954256159532" id="e863a366-8134-4ac6-8e69-954256159532">.github/workflows/run.yaml</h2><br/><a href='https://note.com/naosim/n/ndf5337492224'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Mon, 13 Feb 2023 23:03:26 +0900</pubDate>
+      <link>https://note.com/naosim/n/ndf5337492224</link>
+      <guid>https://note.com/naosim/n/ndf5337492224</guid>
+    </item>
+    <item>
+      <title>【FFmpeg】動画から無劣化で音声を抽出する方法</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/95942739/rectangle_large_type_2_f8736718f8cf0dea5b537d4fdfc41221.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="74a9874a-a9a1-4f5d-a8d4-4f06449da9bc" id="74a9874a-a9a1-4f5d-a8d4-4f06449da9bc">YouTube用の動画を撮影したら音声にノイズがのってしまいました。使っている動画編集ソフトに音声のノイズ除去機能がなかったので、動画から音声のみを抽出して音声編集ソフトを使ってノイズ除去をすることにしました。</p><p name="cb2331e0-05fd-4ffe-a3ee-8ca8ff594884" id="cb2331e0-05fd-4ffe-a3ee-8ca8ff594884">その際に動画から音声のみ抽出する方法を調べたの記録をメモしておきます。基本的には↓このサイトの通りです。</p><br/><a href='https://note.com/naosim/n/nfe746ee417d4'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Wed, 18 Jan 2023 22:01:36 +0900</pubDate>
+      <link>https://note.com/naosim/n/nfe746ee417d4</link>
+      <guid>https://note.com/naosim/n/nfe746ee417d4</guid>
+    </item>
+    <item>
+      <title>【FFmpeg】webM形式の動画をmp4に無劣化で変換する</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/95192948/rectangle_large_type_2_5dc72454e1e864e309b8ba2cc3ccb11b.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="f819f68a-3222-4297-94f9-9c20b460c106" id="f819f68a-3222-4297-94f9-9c20b460c106">webMという動画形式に出会いましたが、私が使っている動画編集ソフトはこの形式に対応していません。なので一旦mp4に変換する必要があります。<br>調べてみたら、FFmpegを使えば無劣化で変換できることがわかりました。<br>コマンドはこんな感じです。</p><pre name="12cf8349-387e-4cc2-9c73-54b1429b418a" id="12cf8349-387e-4cc2-9c73-54b1429b418a"><code>ffmpeg -i input.webm -c:v copy -c:a copy output.mp4</code></pre><br/><a href='https://note.com/naosim/n/n955339575399'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Sun, 08 Jan 2023 22:24:19 +0900</pubDate>
+      <link>https://note.com/naosim/n/n955339575399</link>
+      <guid>https://note.com/naosim/n/n955339575399</guid>
+    </item>
+    <item>
+      <title>CoderDojo溝口でメンターを始めて楽しい</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/93655479/rectangle_large_type_2_548b68da88a6c5cdaee08412637ddba6.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="d591cfa6-6564-446d-808f-2dcf3c986958" id="d591cfa6-6564-446d-808f-2dcf3c986958">こんにちは。CoderDojo溝口に2022年4月からメンターとして参加している「なおしむ」です。今回はCoderDojoを始めたキッカケや感想を共有します。</p><h2 name="c456c8ac-477e-4294-b447-b29d988edf85" id="c456c8ac-477e-4294-b447-b29d988edf85">動機はプログラマーに対する寂しさ</h2><br/><a href='https://note.com/naosim/n/n3f45f649ded6'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Mon, 19 Dec 2022 20:06:35 +0900</pubDate>
+      <link>https://note.com/naosim/n/n3f45f649ded6</link>
+      <guid>https://note.com/naosim/n/n3f45f649ded6</guid>
+    </item>
+    <item>
+      <title>RaspberryPiDesktopでディスプレイの輝度を調整する方法</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/86747072/rectangle_large_type_2_55698b83b94b39cdab7085976276fd06.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="b80d86d9-386c-420b-8107-b87303b90dfe" id="b80d86d9-386c-420b-8107-b87303b90dfe">実家にあった古いWindows7のPCにRaspberryPiDesktopをいれて遊んでいます。子供用のPCにちょうど良さそう。</p><p name="8a38fa35-0c9f-4233-a5ee-cb351e1b98e6" id="8a38fa35-0c9f-4233-a5ee-cb351e1b98e6">今回はそんなRaspberryPiDesktopでディスプレイの輝度を調整する方法を紹介します。通常の設定画面ではできない設定なので少し面倒ですが、わかってしまえば簡単です。</p><br/><a href='https://note.com/naosim/n/nf5999fa1232c'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Mon, 12 Sep 2022 21:52:15 +0900</pubDate>
+      <link>https://note.com/naosim/n/nf5999fa1232c</link>
+      <guid>https://note.com/naosim/n/nf5999fa1232c</guid>
+    </item>
+    <item>
+      <title>boxに大きなファイルを分割してアップロードする方法</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/86617437/rectangle_large_type_2_e0679cf9142158803a912bbbd038ade1.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="548349f0-67aa-4113-af4d-d3625ad942b9" id="548349f0-67aa-4113-af4d-d3625ad942b9">私はクラウドストレージにGoogleDriveを使っていますが、もうすぐ容量がいっぱいになるので、動画などの大きなファイルをboxに移行し始めました。</p><p name="1e8c0b82-8794-4efe-b000-9c5a3a9a559b" id="1e8c0b82-8794-4efe-b000-9c5a3a9a559b">boxとは無料で50GBまで保存できるクラウドストレージです。<br>無料でここまで大容量なサービスは他にないので便利ですが、1ファイルのサイズ上限が250MBなのが難点です。<br>GoogleDriveからの移行中にも上限を超えるファイルがいくつかありました。そんなときはファイルを分割して保存します。<br>今回はコマンドライン上でファイル分割する方法を紹介します。</p><br/><a href='https://note.com/naosim/n/n059b988f95c3'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Sun, 11 Sep 2022 03:03:22 +0900</pubDate>
+      <link>https://note.com/naosim/n/n059b988f95c3</link>
+      <guid>https://note.com/naosim/n/n059b988f95c3</guid>
+    </item>
+    <item>
+      <title>メモ大事。良いアイデアも記憶はすぐに消える。</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/81500458/rectangle_large_type_2_66ec8ec4bf46affd8c299b9d82cc976d.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="7a8702c8-12cb-457e-934e-2f15216be179" id="7a8702c8-12cb-457e-934e-2f15216be179">急に夏がきた。<br>最高気温が35℃だそうで。<br>外に出たくないので、日曜日は家で断捨離というか大掃除してました。</p><p name="57db1f4d-10ac-4b9b-855a-578c6047d177" id="57db1f4d-10ac-4b9b-855a-578c6047d177">掃除あるあるの1つに、古いアルバムを読み始めてしまって掃除が全然すすまないことがあります。それ以外にも整理品から過去を思い出したり、新しいアイデアを思いついたりします。実はこの現象は「ふりかえり」のようなもので重要なことなのてはないかと思った。なので今回は掃除中に思いついたことをメモすることにしました。</p><br/><a href='https://note.com/naosim/n/nb90fb72f87a0'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Mon, 27 Jun 2022 21:46:39 +0900</pubDate>
+      <link>https://note.com/naosim/n/nb90fb72f87a0</link>
+      <guid>https://note.com/naosim/n/nb90fb72f87a0</guid>
+    </item>
+    <item>
+      <title>エンジニアから見たScratchの優れているところ</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/81078164/rectangle_large_type_2_9370bbb2b273de8bf8b3083b4bb61812.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="e40f1301-cca5-47f8-ab0f-7e82464d54f5" id="e40f1301-cca5-47f8-ab0f-7e82464d54f5">プログラミング学習用言語のScratch。<br>ブロックを使った直感的なプログラミングが特徴で、プログラミングの入門言語としてとても良いと思います。</p><p name="a47934a3-82a5-43a2-8f6b-c657e9d7029f" id="a47934a3-82a5-43a2-8f6b-c657e9d7029f">ただこれを実際の開発現場で使いたいかと言えば私はNOです。関数の戻り値が使えなかったり、独自のオブジェクトが作れなかったりで不便なことが多いためです。</p><br/><a href='https://note.com/naosim/n/na9c7ae0042b4'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Mon, 20 Jun 2022 20:24:57 +0900</pubDate>
+      <link>https://note.com/naosim/n/na9c7ae0042b4</link>
+      <guid>https://note.com/naosim/n/na9c7ae0042b4</guid>
+    </item>
+    <item>
+      <title>【Mermaid.js】subgraphの名前が重複するとバグる。解決策アリ</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/79466958/rectangle_large_type_2_c6291fa2fc160e8f38c31af0ff9a665c.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="6a299bae-490b-4047-9d59-d3193c97a1f5" id="6a299bae-490b-4047-9d59-d3193c97a1f5">Mermaid.jsのsubgraphで困ったことが起きたので、その現象と解決策を共有します。</p><h2 name="565a4c3f-2383-4335-81c1-f5fec65de348" id="565a4c3f-2383-4335-81c1-f5fec65de348">現象</h2><br/><a href='https://note.com/naosim/n/nd162fd09a582'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Sat, 28 May 2022 11:51:18 +0900</pubDate>
+      <link>https://note.com/naosim/n/nd162fd09a582</link>
+      <guid>https://note.com/naosim/n/nd162fd09a582</guid>
+    </item>
+    <item>
+      <title>Processingの入門講座を考え中</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/78603392/rectangle_large_type_2_5c602ed3f553abae13d1c750b9171999.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="6fa3a3ed-8139-45a0-9b90-e0bf721db622" id="6fa3a3ed-8139-45a0-9b90-e0bf721db622">アプリケーションエンジニアのなおしむです。<br>小学生でも学習できるProcessingの入門講座（記事）を考え中です。</p><p name="96b282a4-fffd-4140-9acb-36bbca359a09" id="96b282a4-fffd-4140-9acb-36bbca359a09">講座が全部終わると下の動画のように、落ちてくるくだものをキャッチするゲームができあがります。機能としてはドットインストールのScratch講座と同じです。</p><br/><a href='https://note.com/naosim/n/n2f7ad3b6c011'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Sun, 15 May 2022 17:34:33 +0900</pubDate>
+      <link>https://note.com/naosim/n/n2f7ad3b6c011</link>
+      <guid>https://note.com/naosim/n/n2f7ad3b6c011</guid>
+    </item>
+    <item>
+      <title>子供でも読みやすいProcessingの解説記事を書いてみようと思う</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/78343552/rectangle_large_type_2_4e703d5c85ccc5a1869593fb4a8036b3.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="f066df10-013e-4c55-a355-4337ce2a7c02" id="f066df10-013e-4c55-a355-4337ce2a7c02">前回の記事で</p><figure name="3a764d49-ee89-4669-8573-06731eb8c376"><blockquote><p>子供たちがプログラミング言語を学ぶときの壁は、言語仕様の難しさよりも解説資料の言葉の難しさの方が大きいのではないか？</p></blockquote><figcaption><a href="https://note.com/naosim/n/n6d8490882d0f" target="_blank" rel="nofollow noopener">プログラミングで感じた言葉の壁</a></figcaption></figure><br/><a href='https://note.com/naosim/n/n6519467c8120'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Wed, 11 May 2022 06:26:33 +0900</pubDate>
+      <link>https://note.com/naosim/n/n6519467c8120</link>
+      <guid>https://note.com/naosim/n/n6519467c8120</guid>
+    </item>
+    <item>
+      <title>プログラミングで感じた言葉の壁</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/78210517/rectangle_large_type_2_84790bde662d677560507d0b70f1a097.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="c16c1eea-1faa-47ef-8ee0-fcfd211bc337" id="c16c1eea-1faa-47ef-8ee0-fcfd211bc337">CoderDojo溝口にメンターとして参加してきました。</p><figure name="4c6f7e25-bd39-4d6d-b1e1-dc3b980b36ef" data-src="https://www.papacoder.net/coderdojo-mizonokuchi-20220508-report/" data-identifier="null" embedded-service="external-article" embedded-content-key="emb610c1ac90ab0"> <a href="https://www.papacoder.net/coderdojo-mizonokuchi-20220508-report/" rel="nofollow noopener" target="_blank"><strong>【CoderDojo溝口】第31回活動記録～理想的なGWを夢見る子どもたちと一緒にプログラミングを楽しみました～</strong><em>2022/5/8に開催した第31回CoderDojo溝口の様子をお伝えします。</em><em>www.papacoder.net</em></a><a href="https://www.papacoder.net/coderdojo-mizonokuchi-20220508-report/" rel="nofollow noopener" target="_blank"></a> </figure><br/><a href='https://note.com/naosim/n/n6d8490882d0f'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Mon, 09 May 2022 22:30:25 +0900</pubDate>
+      <link>https://note.com/naosim/n/n6d8490882d0f</link>
+      <guid>https://note.com/naosim/n/n6d8490882d0f</guid>
+    </item>
+    <item>
+      <title>Processingに決定！子供がScratchをマスターした後に学ぶプログラミング</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/77984983/rectangle_large_type_2_9e3e671085dbba126317da07e1a0edf3.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="9e7f2d2f-fd18-4db7-bb27-81e045e890dd" id="9e7f2d2f-fd18-4db7-bb27-81e045e890dd">こんにちは、アプリケーションエンジニアのなおしむです。<br>「子供がScratchをマスターしたら次は何をさせるべきか？」という問いに対して思考を整理しています。これまでに以下のような整理をしてきました。</p><ul name="5bab5c92-e5f0-4ad0-bfb1-434b13a0d043"><li><p>子供がものづくりに興味を持ってるか、プログラミングに興味をもってるかを見極める</p></li><li><p>プログラミングに興味を持っている場合、自分の興味のままに進めるために身につけるべきスキルが5つある（詳しくは後述）</p></li></ul><br/><a href='https://note.com/naosim/n/ndc3938509b44'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Sat, 07 May 2022 06:18:52 +0900</pubDate>
+      <link>https://note.com/naosim/n/ndc3938509b44</link>
+      <guid>https://note.com/naosim/n/ndc3938509b44</guid>
+    </item>
+    <item>
+      <title>Processingが起動できずにハマった</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/77950635/rectangle_large_type_2_2c1feb74eafabdc1d9f50c2d76ae0bc6.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="b88c1854-accf-49b8-87f7-29117fba98d1" id="b88c1854-accf-49b8-87f7-29117fba98d1">こんにちは、アプリケーションエンジニアのなおしむです。<br>最近、子供でもつかえるゲームエンジンを探していろいろトライしています。<br>その一つにProcessing※があるので ためしてみたのですが、インストールしてもアプリが起動できずに少しハマったので共有します。<br>「ネットのとおりにやったのにうまくいかない！」という方がいたらおなじ原因かもしれません。</p><h2 name="ceb7e2e6-fb49-47f6-9fd0-ddba91680576">症状</h2><br/><a href='https://note.com/naosim/n/n79b9ddfdf0e2'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Fri, 06 May 2022 18:08:33 +0900</pubDate>
+      <link>https://note.com/naosim/n/n79b9ddfdf0e2</link>
+      <guid>https://note.com/naosim/n/n79b9ddfdf0e2</guid>
+    </item>
+    <item>
+      <title>子供がScratchをマスターした先にある険しい壁</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/77835016/rectangle_large_type_2_b62df3dfd5766844ba160c43e2cde3dc.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="2ce2240d-0d2d-47de-9b9e-dd2eab8f58fd" id="2ce2240d-0d2d-47de-9b9e-dd2eab8f58fd">こんにちは、なおしむです。<br>「子供がScratchをマスターしたら次は何をさせるべきか？」という問いに対して思考を整理しています。<br>下記の記事で、本人がScratchのどこに楽しさを感じているかを見極めようという話をしました。</p><figure name="11a42a54-26f8-47ef-8d6d-74b127513db3" data-src="https://note.com/naosim/n/n77afaccf5c2d" data-identifier="n77afaccf5c2d" embedded-service="note" embedded-content-key="emb86c4b0d078a1"></figure><br/><a href='https://note.com/naosim/n/n464a0dff7353'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Thu, 05 May 2022 17:51:24 +0900</pubDate>
+      <link>https://note.com/naosim/n/n464a0dff7353</link>
+      <guid>https://note.com/naosim/n/n464a0dff7353</guid>
+    </item>
+    <item>
+      <title>子供がScratchをマスターしたら次は何をさせるべきか？ 【ものづくり編】</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/77765028/rectangle_large_type_2_3bed806fb5b1f7c26610a9f623cac622.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="5ddfce04-0df3-4c5f-af7e-112b2f38750d" id="5ddfce04-0df3-4c5f-af7e-112b2f38750d">「子供がScratchをマスターしたら次は何をさせるべきか？」という問いに対して思考を整理をしています。<br>前回は、まず本人がScratchのどこに楽しさを感じているかを見極めると良いという話をしました。</p><figure name="184b78ab-fe4e-42fe-ae9f-aae39cf1b5e3" data-src="https://note.com/naosim/n/n77afaccf5c2d" data-identifier="n77afaccf5c2d" embedded-service="note" embedded-content-key="emb519a7b605509"></figure><br/><a href='https://note.com/naosim/n/nb159fdbc75da'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Wed, 04 May 2022 05:49:41 +0900</pubDate>
+      <link>https://note.com/naosim/n/nb159fdbc75da</link>
+      <guid>https://note.com/naosim/n/nb159fdbc75da</guid>
+    </item>
+    <item>
+      <title>子供がScratchをマスターしたら次は何をさせるべきか？</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/77985652/rectangle_large_type_2_4f304f48dfbab27fa3d0ea652e395464.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="3841a5f0-8508-465b-bb43-e8a368a638c6" id="3841a5f0-8508-465b-bb43-e8a368a638c6">4月に<a href="https://coderdojo.jp/" target="_blank" rel="nofollow noopener">CoderDojo</a>という子供たちのプログラミングコミュニティに参加したときに、あるお母さんからこんな質問をされました。<br>「子供がScratchをマスターしたら次は何をさせるべきでしょうか？」<br>とても難しい問いだなと思いました。<br>そのときはとっさにあれこれ考えて答えたのですが、ここでは改めて思考を整理してみます。<br>今回は<strong>Scratchの限界</strong>と<strong>次に向かうべき方向性</strong>について整理します。</p><h2 name="78c65833-9ada-4fcb-bc83-c8d5a0b8256e">Scratchの限界とは？</h2><br/><a href='https://note.com/naosim/n/n77afaccf5c2d'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Tue, 03 May 2022 06:32:08 +0900</pubDate>
+      <link>https://note.com/naosim/n/n77afaccf5c2d</link>
+      <guid>https://note.com/naosim/n/n77afaccf5c2d</guid>
+    </item>
+    <item>
+      <title>ほげーー！</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/77637530/rectangle_large_type_2_6d06d070a7d4c251e90f49e573d1c2da.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="d1c7c9cc-e809-4cef-9c8c-31d2136a6686" id="d1c7c9cc-e809-4cef-9c8c-31d2136a6686">noteはステキなUIとステキな記事がいっぱいでいいですね。ただ書くときは「読者を意識した良い記事を書かねば」と思ってしまってツライ。<br>べつにここでビジネスしたいわけじゃないので、もっと気軽に書きたいなと思いました。<br>ってことで今後は読者にとって意味のないことをツラツラ書くことにします。<br></p><br/><a href='https://note.com/naosim/n/n0e4ccf7f00a5'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Mon, 02 May 2022 10:09:55 +0900</pubDate>
+      <link>https://note.com/naosim/n/n0e4ccf7f00a5</link>
+      <guid>https://note.com/naosim/n/n0e4ccf7f00a5</guid>
+    </item>
+    <item>
+      <title>プログラミングクラブのCoderDojo溝口に参加した話</title>
+      <media:thumbnail>https://assets.st-note.com/production/uploads/images/76247414/rectangle_large_type_2_5e3444cd67d14cebb7e60ca1ad4aeb1b.png?width=800</media:thumbnail>
+      <description><![CDATA[<p name="1483f865-a72a-453f-8e31-68b81a35d299" id="1483f865-a72a-453f-8e31-68b81a35d299">エンジニアリングマネージャをやっている延長で、プログラミングを教えるようなボランティア活動がないかなぁと探していたら、CoderDojoというのを見つけました。CoderDojoとは世界規模で活動されているプログラミング道場です。今日は最寄りで開催された<a href="https://coderdojo-mizonokuchi.connpass.com/" target="_blank" rel="nofollow noopener">CoderDojo 溝口</a>を見学させてもらったので共有します。</p><h2 name="08c57ab2-35da-421e-ab69-b699b4c8f143">CoderDojoとは</h2><br/><a href='https://note.com/naosim/n/n1cd8cdff6473'>続きをみる</a>]]></description>
+      <note:creatorImage>https://assets.st-note.com/production/uploads/images/27023832/profile_5c50ed55d6d9148581f6963b4b20f554.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330</note:creatorImage>
+      <note:creatorName>なおしむ</note:creatorName>
+      <pubDate>Mon, 11 Apr 2022 23:44:34 +0900</pubDate>
+      <link>https://note.com/naosim/n/n1cd8cdff6473</link>
+      <guid>https://note.com/naosim/n/n1cd8cdff6473</guid>
+    </item>
+  </channel>
+</rss>

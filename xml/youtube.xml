@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCogqz-OIoF3rQ2iFhWbP0FA"/>
+ <id>yt:channel:UCogqz-OIoF3rQ2iFhWbP0FA</id>
+ <yt:channelId>UCogqz-OIoF3rQ2iFhWbP0FA</yt:channelId>
+ <title>なおしむVLOG プログラミングを楽しむ</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCogqz-OIoF3rQ2iFhWbP0FA"/>
+ <author>
+  <name>なおしむVLOG プログラミングを楽しむ</name>
+  <uri>https://www.youtube.com/channel/UCogqz-OIoF3rQ2iFhWbP0FA</uri>
+ </author>
+ <published>2011-10-01T04:53:27+00:00</published>
+ <entry>
+  <id>yt:video:YpJWKJw6M9A</id>
+  <yt:videoId>YpJWKJw6M9A</yt:videoId>
+  <yt:channelId>UCogqz-OIoF3rQ2iFhWbP0FA</yt:channelId>
+  <title>[VLOG] 音声のノイズを消したい！アプリエンジニアの休日</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=YpJWKJw6M9A"/>
+  <author>
+   <name>なおしむVLOG プログラミングを楽しむ</name>
+   <uri>https://www.youtube.com/channel/UCogqz-OIoF3rQ2iFhWbP0FA</uri>
+  </author>
+  <published>2023-01-14T07:48:22+00:00</published>
+  <updated>2023-01-14T21:12:09+00:00</updated>
+  <media:group>
+   <media:title>[VLOG] 音声のノイズを消したい！アプリエンジニアの休日</media:title>
+   <media:content url="https://www.youtube.com/v/YpJWKJw6M9A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/YpJWKJw6M9A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>#vlog #engineer</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="16"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:EKKpEOAzwtI</id>
+  <yt:videoId>EKKpEOAzwtI</yt:videoId>
+  <yt:channelId>UCogqz-OIoF3rQ2iFhWbP0FA</yt:channelId>
+  <title>[VLOG] Neutralino.jsでデスクトップアプリをつくってみる</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=EKKpEOAzwtI"/>
+  <author>
+   <name>なおしむVLOG プログラミングを楽しむ</name>
+   <uri>https://www.youtube.com/channel/UCogqz-OIoF3rQ2iFhWbP0FA</uri>
+  </author>
+  <published>2023-01-13T03:12:26+00:00</published>
+  <updated>2023-01-13T04:20:44+00:00</updated>
+  <media:group>
+   <media:title>[VLOG] Neutralino.jsでデスクトップアプリをつくってみる</media:title>
+   <media:content url="https://www.youtube.com/v/EKKpEOAzwtI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/EKKpEOAzwtI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>#vlog #engineer #javascript</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="8"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
