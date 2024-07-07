@@ -1,4 +1,4 @@
-const startDate = new Date("2023/01/01");
+const startDate = new Date("2024/01/01");
 
 const list = getData()
   .map((v) => ({ date: new Date(v.date), title: v.title }))
@@ -10,10 +10,10 @@ const graphLabels = {
 };
 
 var qEnd = [
-  new Date("2023/4/1"),
-  new Date("2023/7/1"),
-  new Date("2023/10/1"),
-  new Date("2024/1/1")
+  new Date("2024/4/1"),
+  new Date("2024/7/1"),
+  new Date("2024/10/1"),
+  new Date("2025/1/1")
 ];
 var lastDate = list[list.length - 1].date;
 var endDate = qEnd.filter((v) => v.getTime() > lastDate.getTime())[0];
